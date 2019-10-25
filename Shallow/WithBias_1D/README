@@ -1,0 +1,18 @@
+Running Example:
+k=10;
+optimize(k);
+
+
+For not showing the graphs during training:
+Change line 4 in trainAr.m to:
+show=false;
+
+
+Running multiple runnings: (currently 30 frequanecies, and 30 runs for each frequency)
+run runMultiple.m
+
+
+You can plot our results (stored in the folder myResults) by running:
+readAndPlot.m
+
+

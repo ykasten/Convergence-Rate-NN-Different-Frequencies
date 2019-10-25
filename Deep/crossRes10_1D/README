@@ -1,0 +1,12 @@
+The training is performed in python using PyTorch.
+Running Example:
+python mainTrain.py 10
+
+Running multiple runnings: (currently 30 frequanecies, and 20 runs for each frequency)
+run runMultiple.py
+
+
+You can plot our results (stored in the folder myResults) by running (in matlab):
+readAndPlot.m
+
+
