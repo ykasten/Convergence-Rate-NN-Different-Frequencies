@@ -27,8 +27,8 @@ Please cite these paper if you use this code in an academic publication.
 
 
 ## Use
-The shallow neural network experiments should be run in Matlab. 
-The deep neural network experiments run in Python (with PyTorch). The graph generated code is written in Matlab. 
+The shallow neural network experiments run in Matlab. 
+The deep neural network experiments run in Python (with PyTorch). The graph generation code is written in Matlab. 
 Our results can be downloaded from [[here]](https://drive.google.com/file/d/1QM8DbxbfF8-z0taKDlcF8GgMc07gpH2M/view?usp=sharing)
 
 
